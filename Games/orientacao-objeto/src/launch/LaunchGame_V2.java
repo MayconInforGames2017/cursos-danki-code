@@ -15,7 +15,7 @@ public class LaunchGame_V2 extends TesteAbstract {
 	}
 
 	public void chamarJogo() {
-		iniciarJogo();
+		this.iniciarJogo();
 	}
 
 	public void instanceMain2() {
